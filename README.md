@@ -1,5 +1,5 @@
 # pcomp
-Advanced Physical Computing
+Advanced Physical Computing - Humberto Larios
 
 ## Week 01
 ### Part 1 Technical Labs
