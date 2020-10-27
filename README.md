@@ -20,6 +20,8 @@ https://www.tinkercad.com/things/gZgtCrih10Q
 
 Speculative SciFi Machine
 
+I'm not sure what kind of machine it would be, but this panel would serve the person who would operate it. What I do know is that it depends on a general switch to be operated. It has two motors whose temperature is independently monitored and mapped on the control panel, and this information generates knowledge for the operator.
+
 https://www.tinkercad.com/things/8ALnkinad9B
 
 ---
