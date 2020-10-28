@@ -1,4 +1,4 @@
-# P-COMP
+# p-comp
 Advanced Physical Computing - Humberto Larios
 
 ## Week 01
